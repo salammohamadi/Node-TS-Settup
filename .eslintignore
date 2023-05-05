@@ -1,0 +1,13 @@
+node_modules/
+dist/
+webpack/
+__mocks__/
+typings/
+
+
+.eslintrc.js
+eslintBase.js
+craco.config.js
+
+**/*.test.ts
+**/*.test.tsx
